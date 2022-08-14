@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscale_ml=self.webpackChunkscale_ml||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"T\xe1c gi\u1ea3","permalink":"/blog/Authors"}]}')}}]);

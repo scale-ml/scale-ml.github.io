@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>Tốc độ là quan trọng Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>Tốc độ là quan trọng Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tác giả]]></title>
+        <id>Authors</id>
+        <link href="https://your-docusaurus-test-site.com/blog/Authors"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <author>
+            <name>Ngoc Ba</name>
+            <uri>https://github.com/bangoc123</uri>
+        </author>
+        <author>
+            <name>Ngoc Viet Tien</name>
+            <uri>https://github.com/tiena2cva</uri>
+        </author>
+        <author>
+            <name>Khoi Nguyen</name>
+            <uri>https://github.com/NKNK-vn</uri>
+        </author>
+        <author>
+            <name>Quan Dang</name>
+            <uri>https://github.com/18520339</uri>
+        </author>
+    </entry>
+</feed>
