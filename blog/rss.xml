@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Tốc độ là quan trọng Blog</title>
         <link>https://your-docusaurus-test-site.com/blog</link>
@@ -13,6 +13,8 @@
             <link>https://your-docusaurus-test-site.com/blog/Authors</link>
             <guid>Authors</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Đội ngũ kỹ sư từ ProtonX]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tập-hợp-những-kỹ-sư-phát-triển-sản-phẩm-ai-đột-phá">Tập hợp những kỹ sư phát triển sản phẩm AI đột phá.<a class="hash-link" href="#tập-hợp-những-kỹ-sư-phát-triển-sản-phẩm-ai-đột-phá" title="Direct link to heading">​</a></h3><p>2 sản phẩm chính team đang xây dựng</p><ul><li>Nền tảng sáng tạo nội dụng sử dụng trí tuệ nhân tạo: <a href="https://bluestudio.ai/" target="_blank" rel="noopener noreferrer">bluestudio.ai</a></li><li>Nền tảng học AI trực tuyến: <a href="https://protonx.io/" target="_blank" rel="noopener noreferrer">protonx.io</a></li></ul>]]></content:encoded>
         </item>
     </channel>
 </rss>
